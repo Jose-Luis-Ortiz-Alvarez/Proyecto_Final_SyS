@@ -46,3 +46,8 @@ Está diseñado para combinar teoría y práctica en un entorno visual, donde se
   - Visualización interactiva de las constelaciones original vs con ruido.
   - Gráfico comparativo de señales moduladas vs recibidas (primeros símbolos).
   - Evaluación del impacto de la SNR y orden QAM en la precisión de la demodulación.
+
+**Realizado por:**
+Esteban Becerra Loaiza
+Laura Lorena Duque Ospina
+Jose Luis Ortiz Alvarez
