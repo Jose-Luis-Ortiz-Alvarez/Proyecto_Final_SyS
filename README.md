@@ -48,6 +48,6 @@ Está diseñado para combinar teoría y práctica en un entorno visual, donde se
   - Evaluación del impacto de la SNR y orden QAM en la precisión de la demodulación.
 
 **Realizado por:**
-Esteban Becerra Loaiza
-Laura Lorena Duque Ospina
-Jose Luis Ortiz Alvarez
+-Esteban Becerra Loaiza
+-Laura Lorena Duque Ospina
+-Jose Luis Ortiz Alvarez
